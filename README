@@ -1,10 +1,11 @@
 # cljheroku
 
-FIXME: write description
+Simple Ring web app meant to be deployed on Heroku as an example.
 
-## Usage
+Idea from https://gist.github.com/1001206
 
-FIXME: write
+heroku create --stack cedar
+git push heroku master
 
 ## License
 
